@@ -410,10 +410,6 @@ response.url     # => "http://httpbin.org/get?a=1&b=foo"
 {:ok, response} = Tesla.post("http://httpbin.org/post", "data", headers: [{"content-type", "application/json"}])
 ```
 
-
-## Cheatsheet
-
-
 #### Making requests 101
 ```elixir
 # GET /path
