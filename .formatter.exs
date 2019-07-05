@@ -1,4 +1,5 @@
 # Used by "mix format" and to export configuration.
+
 export_locals_without_parens = [
   plug: 1,
   plug: 2,
@@ -12,6 +13,7 @@ export_locals_without_parens = [
     "test/**/*.{ex,exs}",
     "mix.exs"
   ],
+  
   locals_without_parens: export_locals_without_parens,
   export: [locals_without_parens: export_locals_without_parens]
 ]
