@@ -489,4 +489,4 @@ end
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-Copyright (c) 2015-2018 [Tymon Tobolski](http://teamon.eu/about/)
+Copyright (c) 2015-2019 [Tymon Tobolski](http://teamon.eu/about/)
